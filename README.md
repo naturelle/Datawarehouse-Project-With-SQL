@@ -7,7 +7,11 @@ This repository contains a complete **Data Warehouse solution** designed to tran
 ---
 
 ## Data Architecture
-![image](https://github.com/user-attachments/assets/fc870692-12f0-4ef4-81df-1bd92bdc74f8)
+![image](https://github.com/user-attachments/assets/fa330efa-41db-4d6c-a41d-0974ac070f71)
+
+
+![image](https://github.com/user-attachments/assets/03786710-af1c-4916-bcd1-02debad42da2)
+
 
 ## 🚀 Project Overview
 
