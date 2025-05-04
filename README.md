@@ -1,5 +1,7 @@
 # Datawarehouse-Project-With-SQL
 A modern Data Warehouse project built with SQL Server, transforming raw business data into structured intelligence through ETL pipelines, data modeling, and analytical reporting.
+With the help of Data with Baraa Datawarehouse Project.
+
 # 🏢 Data Warehouse Project
 
 This repository contains a complete **Data Warehouse solution** designed to transform raw, scattered data into meaningful business intelligence. Built using **SQL Server**, the project demonstrates key skills in data architecture, ETL, and analytics, serving as a comprehensive portfolio piece for aspiring data professionals.
